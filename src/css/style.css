@@ -1,0 +1,70 @@
+@font-face {
+    font-family: IndieFlower-Regular;
+    src: url(../fonts-awesome/Livvic/Livvic-Black.ttf);
+  }
+
+body {
+    font-family: 'Livvic', sans-serif;
+}
+#top-nav {
+    background-color: #F26519;
+    padding: 5px;
+}
+#top-nav p {
+    color: #fff;
+    margin: 5px 0 0 150px
+}
+.container-fluid > h3 {
+    color: #F26519;
+}
+.container-fluid p {
+    font-size: 13px;
+}
+.my-badge {
+    background-color: #F26519;
+    color: #fff;
+}
+p.card-text {
+    font-size: 13px;
+    text-align: justify;
+}
+img.card-img-top {
+    width: 40px;
+    /* background-color: #F26519; */
+    position: relative;
+    left: 155px;
+    padding: px;
+}
+
+.our-courses {
+    margin: auto;
+    width: 70%;
+    margin-top: 50px;
+    border-bottom: 1px solid #F26519;
+}
+.br-radius {
+    border: 1px solid;
+    border-radius: 5px;
+    border-bottom: 0px !important;
+    border-bottom: 1px solid;
+}
+#courses-bg {
+    background-color: #F26519;
+    border: none !important;
+    border-radius: 8px !important;
+}
+#courses-bg a {
+    color: #fff;
+}
+a.text-decor {
+    text-decoration: none;
+    color: #4badb8;
+}
+.jumbo-bg {
+    background-color: #404040;
+    color: #fff;
+    text-align: center;
+}
+.mb-10 {
+    margin-bottom: 100px;
+}
